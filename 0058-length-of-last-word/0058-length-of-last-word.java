@@ -5,7 +5,6 @@ class Solution {
         int count = 0;
         for(int i = s.length() - 1; i >= 0 ;i--) {
             char character = (char)s.charAt(i);
-            System.out.println(character);
 
             if(character != ' ') {
                 isCharacterMet = true;
