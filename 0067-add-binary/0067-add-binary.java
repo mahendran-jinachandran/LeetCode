@@ -20,8 +20,6 @@ class Solution {
             b = addZeroPrefix(b, aLength - bLength);
         }
 
-        System.out.println("A: " +a);
-        System.out.println("B: " +b);
         int remainder = 0;
         String finalString = "";
         for(int i = a.length() - 1; i >= 0; i--) {
@@ -38,7 +36,6 @@ class Solution {
             }
 
             finalString = Integer.toString(total%2) + finalString;
-            System.out.println("ITER: "+finalString);
         }
 
         if(remainder == 1 && !finalString.isEmpty()) {
