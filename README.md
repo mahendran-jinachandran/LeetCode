@@ -62,4 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/mahendran29/LeetCode/tree/master/0191-number-of-1-bits) |
+## Array
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/mahendran29/LeetCode/tree/master/0118-pascals-triangle) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/mahendran29/LeetCode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
