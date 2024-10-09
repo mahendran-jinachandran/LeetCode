@@ -79,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mahendran29/LeetCode/tree/master/0067-add-binary) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/mahendran29/LeetCode/tree/master/0203-remove-linked-list-elements) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/mahendran29/LeetCode/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
