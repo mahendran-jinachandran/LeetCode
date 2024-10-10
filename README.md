@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/mahendran29/LeetCode/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/mahendran29/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0338-counting-bits](https://github.com/mahendran29/LeetCode/tree/master/0338-counting-bits) |
 ## Array
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/mahendran29/LeetCode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/mahendran29/LeetCode/tree/master/0119-pascals-triangle-ii) |
+| [0338-counting-bits](https://github.com/mahendran29/LeetCode/tree/master/0338-counting-bits) |
 ## Simulation
 |  |
 | ------- |
