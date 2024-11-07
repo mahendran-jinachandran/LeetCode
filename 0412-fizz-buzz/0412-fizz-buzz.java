@@ -10,7 +10,7 @@ class Solution {
             } else if (i % 5 == 0) {
                 list.add("Buzz");
             } else {
-                list.add(String.valueOf(i));
+                list.add(Integer.toString(i));
             }
        } 
 
