@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mahendran29/LeetCode/tree/master/0013-roman-to-integer) |
 | [0067-add-binary](https://github.com/mahendran29/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/mahendran29/LeetCode/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/mahendran29/LeetCode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/mahendran29/LeetCode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/mahendran29/LeetCode/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/mahendran29/LeetCode/tree/master/0412-fizz-buzz) |
 ## Tree
 |  |
 | ------- |
@@ -87,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/mahendran29/LeetCode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/mahendran29/LeetCode/tree/master/0412-fizz-buzz) |
 ## Linked List
 |  |
 | ------- |
