@@ -17,15 +17,14 @@ class Solution {
 
         ListNode store = head.next;
         ListNode front = head.next;
-        ListNode back = head;
-        back.next = null;
+        head.next = null;
         while(store != null) {
             front = front.next;
-            store.next = back;
-            back = store;
+            store.next = head;
+            head = store;
             store = front;
         } 
 
-        return back;
+        return head;
     }
 }
